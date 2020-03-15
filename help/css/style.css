@@ -209,32 +209,45 @@ footer,
     height: 32px;
 }
 
-.button-patreon {
-	background: #f96854;
-	border: 1px solid #f96854;
+.button-social {
 	color: #fff;
 	display: inline-block;
 	font-weight: 700;
-	padding: .5rem .6rem;
+	padding: .2rem .3rem;
 	text-decoration: none;
-	text-transform: uppercase;
 	transition: .5s ease all;
 	-webkit-user-select: none;
 	   -moz-user-select: none;
-	    -ms-user-select: none;
-	        user-select: none;
+		-ms-user-select: none;
+			user-select: none;
 }
 
-a.button-patreon::after {
+.button-twitter {
+	background: #55acee;
+}
+
+.button-patreon {
+	background: #f96854;
+	border: 1px solid #f96854;
+	padding: .5rem .6rem;
+	text-transform: uppercase;
+}
+
+a.button-social::after {
 	content: none;
+}
+
+.button-social:hover,
+.button-social:focus,
+.button-social:after {
+	color: #fff;
+	text-decoration: none;
 }
 
 .button-patreon:hover,
 .button-patreon:focus,
 .button-patreon:active {
 	background: #ff8370;
-	color: #fff;
-	text-decoration: none;
 }
 
 .button-patreon__icon {
