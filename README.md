@@ -151,7 +151,7 @@ This library includes a modified version of Spectre.css, which is available unde
 
 The table of contents script is [Pure JS Table of Contents by Hendrik](https://codepen.io/aufmkolk/details/RWKLzr) on Codepen, available under the MIT License.
 
-The external link SVG is from [iconmonstr](https://iconmonstr.com/share-11-svg/) and can be used in your readme without attribution as per [iconmonstr's license](https://iconmonstr.com/license/"). However, if you are the excessively thorough type, the iconmonstr license is also included in the licenses folder.
+The external link SVG is from [iconmonstr](https://iconmonstr.com/share-11-svg/) and can be used in your readme without attribution as per [iconmonstr's license](https://iconmonstr.com/license/). However, if you are the excessively thorough type, the iconmonstr license is also included in the licenses folder.
 
 The Patreon button and logo belong to Patreon. You can view [Patreon's brand and button usage guidelines here](https://www.patreon.com/brand).
 
