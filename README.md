@@ -153,9 +153,9 @@ The table of contents script is [Pure JS Table of Contents by Hendrik](https://c
 
 The external link SVG is from [iconmonstr](https://iconmonstr.com/share-11-svg/) and can be used in your readme without attribution as per [iconmonstr's license](https://iconmonstr.com/license/"). However, if you are the excessively thorough type, the iconmonstr license is also included in the licenses folder.
 
-[The Patreon button is copyright Patreon. [https://www.patreon.com/brand](You can see their brand and button usage guidelines here.)
+The Patreon button and logo belong to Patreon. You can view [Patreon's brand and button usage guidelines here](https://www.patreon.com/brand).
 
-The [http://www.oneswitch.org.uk/game-access.htm](Game Accessibility Info) symbol is &copy; OneSwitch.co.uk, and may be used under the following guidelines:
+The [Game Accessibility Info](http://www.oneswitch.org.uk/game-access.htm) symbol is &copy; OneSwitch.co.uk, and may be used under the following guidelines:
 ```
 1. The symbol is used only to denote "Game Accessibility Information".
 
